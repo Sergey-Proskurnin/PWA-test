@@ -1,0 +1,109 @@
+{
+  "title": "Телефонна книга",
+  "description": {
+    "part1": "Раніше ми мріяли про ці речі. Тепер ми можемо їх створити. Це доволі чудово.",
+    "part2": "Стівен Пол Джобс, Всесвітня конференція розробників Apple (червень 2004 року)"
+  },
+  "authNav": {
+    "link1": "Реєстрація",
+    "link2": "Увійти"
+  },
+  "link": "Головна",
+  "link1": "Контакти",
+  "userMenu": {
+    "span": "Вітаю,",
+    "button": "Вийти",
+    "btnSubscribe": "Підписка"
+  },
+  "registration": {
+    "title": "Реєстрація",
+    "inputName": {
+      "label": "Введіть ім'я",
+      "placeholder": "Наприклад, «Джон»",
+      "title": "Ім’я може складається від трьох до 30 літер та може містити апостроф, тире та пробіли. Наприклад, Адріан, Жак Мерсер, д'Артаньян, Олександр Репета тощо."
+    },
+    "inputEmail": {
+      "label": "Введіть 'email'",
+      "placeholder": "Наприклад, 'email@gmail.com'",
+      "title": "Електронна пошта може складатися з літер, цифр і обов’язкового символу '@'"
+    },
+    "inputPassword": {
+      "label": "Введіть свій пароль",
+      "placeholder": "qwerty123456",
+      "title": "The password can be at least six letters of numbers and symbols '!@#$%^&*'"
+    },
+    "inputPassword1": {
+      "label": "Введіть пароль ще раз",
+      "placeholder": "qwerty123456",
+      "title": "Пароль повинен бути не менше шести літер та цифр, а також символів '!@#$%^&*'"
+    },
+    "button": "ЗАРЕЄСТРУВАТИСЯ",
+    "repeatEmail": "Надіслати повторний лист на"
+  },
+  "login": {
+    "title": "Авторизація",
+    "googleButtonWhite": "Увійти через Google",
+    "facebookButton": "Увійти через Facebook",
+    "inputEmail": {
+      "label": "Введіть 'email'",
+      "placeholder": "Наприклад, 'email@gmail.com'",
+      "title": "Електронна пошта може складатися з літер, цифр і обов’язкового символу '@'"
+    },
+    "inputPassword": {
+      "label": "Введіть свій пароль",
+      "placeholder": "qwerty123456",
+      "title": "Пароль повинен бути не менше шести літер та цифр, а також символів '!@#$%^&*'"
+    },
+    "button": "Увійти"
+  },
+  "contactsView": {
+    "title1": "Додати контакт",
+    "title2": "Контакти",
+    "contactForm": {
+      "button": "Додати контакт",
+      "inputsContact": {
+        "spanAvatar": "Вибрати аватар",
+        "buttonAvatar": "Вибрати файл",
+        "spanName": "Ім'я",
+        "titleName": "Ім'я має містити від трьох до 30 літер, апостроф, тире та прогалини. Наприклад, Адріан, Жак Мерсер, д'Артаньян, Олександр Репета та ін.",
+        "spanNumber": "Номер телефону",
+        "titleNumber": "Номер телефону повинен складатися з цифр і може містити прогалини, тире, круглі дужки та починатися з +",
+        "spanEmail": "Електронна пошта",
+        "titleEmail": "Електронна пошта може складатися з букв цифр та обов'язкового символу «@». Наприклад, user@example.com і тощо"
+      }
+    },
+    "contactsBlock": {
+      "filterDescription": "Знайти контакт за ім'ям та номером",
+      "contactButtonDelete": "Видалити",
+      "contactButtonChange": "Змінити"
+    }
+  },
+  "UserModal": {
+    "description": {
+      "title": "Редагувати профіль",
+      "dropZone": "Перетягніть сюди свій аватар",
+      "span": "або"
+    },
+    "inputs": {
+      "labelFile": "Виберіть файл аватара",
+      "titleName": "Ім'я"
+    },
+    "buttonOk": "OK",
+    "buttonBack": "НАЗАД"
+  },
+  "contactFormChange": {
+    "buttonChange": "Змінити",
+    "buttonUnchange": "Не змінювати"
+  },
+  "deleteContact": {
+    "title": "Ви впевнені, що хочете видалити контакт?",
+    "btnYes": "Так",
+    "btnNo": "Ні"
+  },
+  "privacyPolicy": "Політика Конфіденційності",
+  "subscriptionModal": {
+    "title": "Змінити підписку",
+    "button": "Змінити"
+  },
+  "buttonAddToHomeScreen": "Встановити додаток"
+}

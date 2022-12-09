@@ -1,0 +1,109 @@
+{
+  "title": "Phonebook",
+  "description": {
+    "part1": "We used to dream about this stuff. Now we get to build it. It's pretty great.",
+    "part2": "Steven Paul Jobs, Apple Worldwide Developers Conference (June 2004)"
+  },
+  "authNav": {
+    "link1": "Сheck in",
+    "link2": "Login"
+  },
+  "link": "Home",
+  "link1": "Contacts",
+  "userMenu": {
+    "span": "Welcome,",
+    "button": "Logout",
+    "btnSubscribe": "Subscribe"
+  },
+  "registration": {
+    "title": "Registration",
+    "inputName": {
+      "label": "Enter your name",
+      "placeholder": "For example 'John'",
+      "title": "The name can only be from three to 30 letters, apostrophe, dash and spaces. For example Adrian, Jac Mercer, d'Artagnan, Alexander Repeta etc."
+    },
+    "inputEmail": {
+      "label": "Enter your email",
+      "placeholder": "For example 'email@gmail.com'",
+      "title": "Email can consist of letters, numbers and a required character '@'"
+    },
+    "inputPassword": {
+      "label": "Enter your password",
+      "placeholder": "qwerty123456",
+      "title": "The password can be at least six letters of numbers and symbols '!@#$%^&*'"
+    },
+    "inputPassword1": {
+      "label": "Enter your password again",
+      "placeholder": "qwerty123456",
+      "title": "The password can be at least six letters of numbers and symbols '!@#$%^&*'"
+    },
+    "button": "CHECK IN",
+    "repeatEmail": "Send a follow-up email to"
+  },
+  "login": {
+    "title": "Login",
+    "googleButtonWhite": "Sing in with Google",
+    "facebookButton": "Sing in with Facebook",
+    "inputEmail": {
+      "label": "Enter your email",
+      "placeholder": "For example 'email@gmail.com'",
+      "title": "Email can consist of letters, numbers and a required character '@'"
+    },
+    "inputPassword": {
+      "label": "Enter your password",
+      "placeholder": "qwerty123456",
+      "title": "The password can be at least six letters of numbers and symbols '!@#$%^&*'"
+    },
+    "button": "Sign in"
+  },
+  "contactsView": {
+    "title1": "Add contact",
+    "title2": "Contacts",
+    "contactForm": {
+      "button": "Add contact",
+      "inputsContact": {
+        "spanAvatar": "Select avatar",
+        "buttonAvatar": "Choose File",
+        "spanName": "Name",
+        "titleName": "The name can only be from three to 30 letters, apostrophe, dash and spaces. For example Adrian, Jac Mercer, d'Artagnan, Alexander Repeta etc.",
+        "spanNumber": "Number",
+        "titleNumber": "Phone number must be digits and can contain spaces, dashes, parentheses and can start with +",
+        "spanEmail": "Email",
+        "titleEmail": "Email can consist of letters of numbers and a mandatory symbol '@'. For example user@example.com etc."
+      }
+    },
+    "contactsBlock": {
+      "filterDescription": "Find contacts by name and number",
+      "contactButtonDelete": "Delete",
+      "contactButtonChange": "Change"
+    }
+  },
+  "UserModal": {
+    "description": {
+      "title": "Edit profile",
+      "dropZone": "Drag and drop your avatar here",
+      "span": "or"
+    },
+    "inputs": {
+      "labelFile": "Select a file avatar",
+      "titleName": "Name"
+    },
+    "buttonOk": "OK",
+    "buttonBack": "BACK"
+  },
+  "contactFormChange": {
+    "buttonChange": "Change",
+    "buttonUnchange": "Unchanged"
+  },
+  "deleteContact": {
+    "title": "Are you sure that you want to delete the contact?",
+    "btnYes": "Yes",
+    "btnNo": "No"
+  },
+  "privacyPolicy": "Privacy Policy",
+  "subscriptionModal": {
+    "title": "Change subscription",
+    "button": "CHANGE"
+  },
+  "buttonAddToHomeScreen": "Add to home screen"
+}
